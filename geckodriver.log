@@ -1,0 +1,301 @@
+
+(firefox:27790): Gtk-WARNING **: 18:21:02.021: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623795662366	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:27864): Gtk-WARNING **: 18:21:02.570: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:27876): Gtk-WARNING **: 18:21:02.670: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehMSany/search.json.mozlz4", (void 0)))
+1623795663864	Marionette	INFO	Listening on port 46565
+
+(/usr/lib/firefox/firefox:27979): Gtk-WARNING **: 18:21:03.866: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623795663915	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:28235): Gtk-WARNING **: 18:21:48.999: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623795709349	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:28315): Gtk-WARNING **: 18:21:49.636: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:28322): Gtk-WARNING **: 18:21:49.693: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAgMAfq/search.json.mozlz4", (void 0)))
+1623795710680	Marionette	INFO	Listening on port 39065
+
+(/usr/lib/firefox/firefox:28421): Gtk-WARNING **: 18:21:50.690: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623795710695	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+
+(firefox:28835): Gtk-WARNING **: 18:22:50.005: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623795770355	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:28916): Gtk-WARNING **: 18:22:50.645: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:28923): Gtk-WARNING **: 18:22:50.702: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1BXTLq/search.json.mozlz4", (void 0)))
+1623795771489	Marionette	INFO	Listening on port 37733
+1623795771623	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29033): Gtk-WARNING **: 18:22:51.670: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623795808419	Marionette	INFO	Stopped listening on port 46565
+1623795808425	Marionette	INFO	Stopped listening on port 39065
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623795808473	Marionette	INFO	Stopped listening on port 37733
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:2811): Gtk-WARNING **: 21:09:34.210: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623805774675	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2896): Gtk-WARNING **: 21:09:35.030: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:2903): Gtk-WARNING **: 21:09:35.095: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHn8MG1/search.json.mozlz4", (void 0)))
+1623805775592	Marionette	INFO	Listening on port 43967
+1623805775685	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3004): Gtk-WARNING **: 21:09:36.036: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623805898311	Marionette	INFO	Stopped listening on port 43967
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:5312): Gtk-WARNING **: 21:28:52.142: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623806932507	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5392): Gtk-WARNING **: 21:28:52.765: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5399): Gtk-WARNING **: 21:28:52.828: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE0GH31/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623806933526	Marionette	INFO	Listening on port 36377
+1623806933665	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5505): Gtk-WARNING **: 21:28:53.767: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623806938071	Marionette	INFO	Stopped listening on port 36377
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:5637): Gtk-WARNING **: 21:30:04.499: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807004859	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5711): Gtk-WARNING **: 21:30:05.062: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5723): Gtk-WARNING **: 21:30:05.133: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXqDPUg/search.json.mozlz4", (void 0)))
+1623807005702	Marionette	INFO	Listening on port 45271
+1623807005805	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5826): Gtk-WARNING **: 21:30:06.112: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5986): Gtk-WARNING **: 21:30:37.283: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:6251): Gtk-WARNING **: 21:31:33.056: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807093399	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:6331): Gtk-WARNING **: 21:31:33.664: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6338): Gtk-WARNING **: 21:31:33.720: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecuHWhN/search.json.mozlz4", (void 0)))
+1623807094472	Marionette	INFO	Listening on port 41619
+1623807094558	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6439): Gtk-WARNING **: 21:31:34.671: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807109340	Marionette	INFO	Stopped listening on port 45271
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623807157805	Marionette	INFO	Stopped listening on port 41619
+
+(firefox:6783): Gtk-WARNING **: 21:32:43.155: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807163500	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:6864): Gtk-WARNING **: 21:32:43.766: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:6871): Gtk-WARNING **: 21:32:43.823: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq0zVUy/search.json.mozlz4", (void 0)))
+1623807164582	Marionette	INFO	Listening on port 45209
+1623807164676	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6971): Gtk-WARNING **: 21:32:44.767: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:7219): Gtk-WARNING **: 21:33:40.000: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807220340	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:7297): Gtk-WARNING **: 21:33:40.596: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:7304): Gtk-WARNING **: 21:33:40.651: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelviXA3/search.json.mozlz4", (void 0)))
+1623807221431	Marionette	INFO	Listening on port 37453
+1623807221499	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7402): Gtk-WARNING **: 21:33:41.596: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:7677): Gtk-WARNING **: 21:34:21.529: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807261878	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:7761): Gtk-WARNING **: 21:34:22.134: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:7768): Gtk-WARNING **: 21:34:22.190: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeaa54o/search.json.mozlz4", (void 0)))
+1623807262748	Marionette	INFO	Listening on port 41491
+1623807262830	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7875): Gtk-WARNING **: 21:34:23.178: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:7956): Gtk-WARNING **: 21:34:28.664: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:8007): Gtk-WARNING **: 21:34:30.762: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807333395	Marionette	INFO	Stopped listening on port 45209
+1623807333401	Marionette	INFO	Stopped listening on port 41491
+1623807333401	Marionette	INFO	Stopped listening on port 37453
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:8545): Gtk-WARNING **: 21:35:35.203: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807335554	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:8625): Gtk-WARNING **: 21:35:35.804: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:8633): Gtk-WARNING **: 21:35:35.860: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuQlLGC/search.json.mozlz4", (void 0)))
+1623807336622	Marionette	INFO	Listening on port 44481
+1623807336723	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8736): Gtk-WARNING **: 21:35:36.807: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807386919	Marionette	INFO	Stopped listening on port 44481
+
+(firefox:8996): Gtk-WARNING **: 21:36:59.441: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807419794	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:9076): Gtk-WARNING **: 21:37:00.046: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:9083): Gtk-WARNING **: 21:37:00.101: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX9lb3z/search.json.mozlz4", (void 0)))
+1623807420790	Marionette	INFO	Listening on port 34233
+1623807420831	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9187): Gtk-WARNING **: 21:37:01.066: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807449035	Marionette	INFO	Stopped listening on port 34233
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:9385): Gtk-WARNING **: 21:37:32.786: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807453156	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:9464): Gtk-WARNING **: 21:37:33.414: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:9471): Gtk-WARNING **: 21:37:33.477: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegoSpgM/search.json.mozlz4", (void 0)))
+1623807454028	Marionette	INFO	Listening on port 42231
+1623807454078	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9571): Gtk-WARNING **: 21:37:34.443: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807557035	Marionette	INFO	Stopped listening on port 42231
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:11711): Gtk-WARNING **: 21:43:23.505: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807803860	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11792): Gtk-WARNING **: 21:43:24.107: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11799): Gtk-WARNING **: 21:43:24.164: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7GrBhj/search.json.mozlz4", (void 0)))
+1623807804703	Marionette	INFO	Listening on port 37265
+1623807804825	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11897): Gtk-WARNING **: 21:43:25.119: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:12100): Gtk-WARNING **: 21:44:08.099: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807848463	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:12188): Gtk-WARNING **: 21:44:08.715: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12195): Gtk-WARNING **: 21:44:08.773: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqVPnIY/search.json.mozlz4", (void 0)))
+1623807849325	Marionette	INFO	Listening on port 33159
+1623807849392	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12295): Gtk-WARNING **: 21:44:09.763: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1623807865646	Marionette	INFO	Stopped listening on port 33159
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623807880580	Marionette	INFO	Stopped listening on port 37265
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
